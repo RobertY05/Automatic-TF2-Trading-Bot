@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/a2fbc5ae-636b-4c4f-9516-edc5825cdad8)
 
+A bot that automatically trades TF2 items for profit.
+
 ## Background
 *Feel free to skip if you do not wish to learn about the mechanics of Team Fortress 2 hat trading.*
 In *Team Fortress 2* you can earn in-game cosmetic items (referred to as hats) through a number of different methods: time played, achievements, and gambling. 
